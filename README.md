@@ -117,7 +117,7 @@ Here's how the full data pipeline flows:
 
 Here's the full production picture — every service in its place, every data flow mapped:
 
-![AWS E-Commerce Architecture — Full Production Blueprint](aws-architecture.png)
+![image alt](https://github.com/wasimbaari/AWS-ARCHITECTURE-DESIGN/blob/f744cc89057bb23e256910d01eb3367441973a30/aws-full-architecture.png)
 
 Let's trace a few key flows directly from the diagram:
 
