@@ -21,8 +21,7 @@ Let's break it down — layer by layer, phase by phase.
 
 Before touching a single AWS service, a good architect draws the *conceptual* architecture first — service-agnostic, focused purely on responsibilities and data flow.
 
-![image alt](<img width="2240" height="1400" alt="image" src="https://github.com/user-attachments/assets/5e1651a5-7a18-4eb9-86cd-81c0bf2cc26f" />
-)
+![image alt](https://github.com/wasimbaari/AWS-ARCHITECTURE-DESIGN/blob/e7b5df9dc96c6835ad6ff2e632ed5d51f759c7c5/architecture-overview.png)
 
 This diagram captures every layer of the system:
 
